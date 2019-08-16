@@ -5,4 +5,4 @@
 NO LONGER WORKS DUE TO RECENT WEBSITE REDESIGN. 
 
 ## TO-DO
-Find new science-based nutrition site and rewrite script.
+Rewrite script.
